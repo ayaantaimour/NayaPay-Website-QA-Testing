@@ -46,3 +46,6 @@ https://www.nayapay.com
 
 ## 🚀 Conclusion
 This project reflects my ability to analyze real-world products, identify critical issues, and provide actionable insights to improve user experience and software quality.
+
+## 📄 Full Report
+[Download Full Bug Report](./TaimourAhmed_NayaPay_BugReport.pdf) 
